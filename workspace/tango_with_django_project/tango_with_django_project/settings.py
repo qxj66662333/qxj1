@@ -33,7 +33,7 @@ with open('secret.key') as f:
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['qxj66662333.pythonanywhere.com', '127.0.0.1']
+ALLOWED_HOSTS = ['qxj123.pythonanywhere.com', '127.0.0.1']
 
 
 # Application definition
